@@ -1,7 +1,5 @@
 hello world!
 
-<<<<<<< HEAD
 Other folder new stuff
-=======
+
 add new stuff.
->>>>>>> 3ea51007873c869870f72b5a255f5377c2c51f56
